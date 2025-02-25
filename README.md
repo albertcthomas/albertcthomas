@@ -7,7 +7,7 @@ As I primarily work on projects that are not open source, I haven’t been very 
 - **[scikit-learn](https://github.com/scikit-learn/scikit-learn)**  
   Check out my [scikit-learn PRs](https://github.com/scikit-learn/scikit-learn/pulls?q=is%3Apr+author%3Aalbertcthomas), including:
   - **SGD implementation of the One-Class SVM** – [PR](https://github.com/scikit-learn/scikit-learn/pull/10027)
-  - **Common tests for outlier detectors** – [PR](https://github.com/scikit-learn/scikit-learn/pull/10027)
+  - **Common tests for outlier detectors** – [PR](https://github.com/scikit-learn/scikit-learn/pull/9270)
   
 - **[rl_simulator](https://github.com/ramp-kits/rl_simulator)**  
   A **model-based reinforcement learning** library for our **ICLR 2021 paper** 🎓.
