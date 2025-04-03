@@ -3,7 +3,6 @@
 I am a **research engineer in machine learning** at **Huawei Noah's Ark Lab** 🚀.
 
 As I primarily work on projects that are not open source, I haven’t been very active on GitHub in recent years. However, here's a selection of my previous open source contributions.
-### 💻 Open Source Contributions
 - **[scikit-learn](https://github.com/scikit-learn/scikit-learn)**  
   Check out my [scikit-learn PRs](https://github.com/scikit-learn/scikit-learn/pulls?q=is%3Apr+author%3Aalbertcthomas), including:
   - **SGD implementation of the One-Class SVM** – [PR](https://github.com/scikit-learn/scikit-learn/pull/10027)
