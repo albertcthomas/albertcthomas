@@ -12,7 +12,7 @@ As I primarily work on projects that are not open source, I haven’t been very 
   A **model-based reinforcement learning** library for our **ICLR 2021 paper** 🎓.
 
 - **[ramp-workflow](https://github.com/paris-saclay-cds/ramp-workflow)**  
-  Check out my [PRs](https://github.com/albertcthomas/anomaly_tuning).
+  Check out my [PRs](https://github.com/paris-saclay-cds/ramp-workflow/pulls?q=is%3Apr+author%3Aalbertcthomas+).
 
 - **[anomaly_tuning](https://github.com/albertcthomas/anomaly_tuning)**  
   A project focused on learning hyperparameters for **unsupervised anomaly detection**.
